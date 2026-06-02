@@ -1,10 +1,3 @@
-//package com.android.lastproj
-//
-//import com.badlogic.gdx.ApplicationAdapter
-//
-///** [com.badlogic.gdx.ApplicationListener] implementation shared by all platforms. */
-//class MainGame : ApplicationAdapter()
-
 package com.android.lastproj
 
 import com.badlogic.gdx.Game
